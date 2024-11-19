@@ -1,24 +1,48 @@
-Hi there 👋 I'm Julian
-========================
+<img src="./assets/banner.png" alt="Banner" />
 
-- 🌍 I'm based in Buenos Aires, ARG.
-- 🔭 I’m currently working on building MVPs
+# Hi there 👋
 
-Tech Stack
-------------------------
+I am product-minded software engineer from Argentina 🇦🇷
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-</p>
+### 👀 Abut me
+
+- 🔭 I work at [GetGloby](https://www.getgloby.ai/)
+- 🌱 I am actively learning about LLMs and artificial intelligence
+- 👥 I love to collaborate on side projects
+
+<br>
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jjdeleon)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Julian-De-Leon-3)
+
+### 🛠️ Weekend Projects
+
+- Coming Soon!
+
+### 📄 Published Papers
+
+- [Game Theory and the Dynamics of Attackers-Defenders in Cybersecurity: A Literature Review (Original in Spanish)](http://dx.doi.org/10.13140/RG.2.2.25610.27841) - A literature review exploring how game theory can be applied as an analytical framework to model and improve cybersecurity strategies between attackers and defenders.
+
+### 📚 Technical Articles
+
+- [Working on the right problem dominates speed of execution](https://medium.com/@jjdeleon/working-on-the-right-problem-dominates-speed-of-execution-88214f156b98)
+- [Why Anti-Patterns teach us more than Best Practices](https://medium.com/@jjdeleon/why-anti-patterns-teach-us-more-than-best-practices-a85bbb1e194b)
+- [Technical debt: The double-edged sword of Software Engineering](https://medium.com/@jjdeleon/technical-debt-the-double-edged-sword-of-software-engineering-0ae4ba3961c5)
+
+### 🔧 Technologies & Tools
+
+#### Frontend
+
+![Frontend Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,remix,html,css,tailwind,materialui,redux,sass,webpack,vite)
+
+#### Backend
+
+![Backend Skills](https://skillicons.dev/icons?i=nodejs,python,graphql,express,django,postgres,prisma)
+
+#### Testing
+
+![Testing Skills](https://skillicons.dev/icons?i=jest,vitest)
+
+#### Infrastructure & Tools
+
+![Infrastructure Skills](https://skillicons.dev/icons?i=aws,gcp,docker,git,github,vscode,postman,linux,grafana)
